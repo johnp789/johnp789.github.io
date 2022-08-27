@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trying out GitHub Pages"
+date: 2022-08-28 13:30:00 -0500
 category: meta
 ---
 
